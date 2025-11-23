@@ -58,6 +58,6 @@ npm install nailusLogotypes
 
 ## 🤝 Communauté
 
-* Discussions : [https://github.com/nailuslabs/nailusLogotype/discussions](https://github.com/nailuslabs/nailusLogotype/discussions)
-* Bugs : [https://github.com/nailuslabs/nailusLogotype/issues](https://github.com/nailuslabs/nailusLogotype/issues)
-* Suggestions : [https://github.com/nailuslabs/nailusLogotype/issues](https://github.com/nailuslabs/nailusLogotype/issues)
+* Discussions : [https://github.com/nailuslabs/nailusLogotypes/discussions](https://github.com/nailuslabs/nailusLogotypes/discussions)
+* Bugs : [https://github.com/nailuslabs/nailusLogotypes/issues](https://github.com/nailuslabs/nailusLogotypes/issues)
+* Suggestions : [https://github.com/nailuslabs/nailusLogotypes/issues](https://github.com/nailuslabs/nailusLogotypes/issues)
